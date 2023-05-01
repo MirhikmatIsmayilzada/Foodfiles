@@ -602,9 +602,6 @@ header .navbar nav .home-color {
     padding: 7px 10px;
     font-size: 20px;
   }
-  #support .imgbox {
-    margin-bottom: 20px;
-  }
 }
 @media screen and (max-width: 768px) {
   #support .textbox h1 {
@@ -612,6 +609,9 @@ header .navbar nav .home-color {
   }
   #support .textbox .btn {
     margin-bottom: 60px;
+  }
+  #support .imgbox {
+    margin-bottom: 20px;
   }
 }
 @media screen and (max-width: 576px) {
