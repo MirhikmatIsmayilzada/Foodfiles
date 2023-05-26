@@ -615,14 +615,14 @@ header .navbar nav .home-color {
   }
 }
 @media screen and (max-width: 576px) {
-  #support .textbox h1 {
+  #support .bgc .textbox h1 {
     font-size: 30px;
   }
-  #support .textbox .btn {
+  #support .bgc .textbox .btn {
     margin-bottom: 30px;
     font-size: 18px;
   }
-  #support .imgbox {
+  #support .bgc .imgbox {
     margin-bottom: 20px;
     width: auto;
   }
